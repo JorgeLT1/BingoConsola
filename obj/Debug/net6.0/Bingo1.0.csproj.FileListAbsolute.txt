@@ -1,0 +1,132 @@
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\Bingo1.0.exe
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\Bingo1.0.deps.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\Bingo1.0.runtimeconfig.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.csproj.AssemblyReference.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.AssemblyInfoInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.AssemblyInfo.cs
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\refint\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.genruntimeconfig.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\ref\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\Bingo1.0\obj\Debug\net6.0\Bingo1.0.csproj.CopyComplete
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\Bingo1.0.exe
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\Bingo1.0.deps.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\Bingo1.0.runtimeconfig.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.csproj.AssemblyReference.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.AssemblyInfoInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.AssemblyInfo.cs
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.csproj.CopyComplete
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\refint\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\Bingo1.0.genruntimeconfig.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0\obj\Debug\net6.0\ref\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\Bingo1.0.exe
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\Bingo1.0.deps.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\Bingo1.0.runtimeconfig.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.csproj.AssemblyReference.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.AssemblyInfoInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.AssemblyInfo.cs
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.csproj.CopyComplete
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\refint\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\Bingo1.0.genruntimeconfig.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo1.0 - copia\obj\Debug\net6.0\ref\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.exe
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.deps.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.runtimeconfig.json
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.AssemblyReference.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.AssemblyInfoInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.AssemblyInfo.cs
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.CopyComplete
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\refint\Bingo1.0.dll
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.genruntimeconfig.cache
+C:\Users\Jorge\Documents\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\ref\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.exe
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.deps.json
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.runtimeconfig.json
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.AssemblyReference.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.AssemblyInfoInputs.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.AssemblyInfo.cs
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.CopyComplete
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\refint\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.genruntimeconfig.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\ref\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.exe
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.deps.json
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.runtimeconfig.json
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.AssemblyReference.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.AssemblyInfoInputs.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.AssemblyInfo.cs
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.csproj.CopyComplete
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\refint\Bingo1.0.dll
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.pdb
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\Bingo1.0.genruntimeconfig.cache
+C:\Users\Jorge\OneDrive\Documentos\Archivos\TRIMESTRES\6to trimestre\Estructura de datos\Bingo\obj\Debug\net6.0\ref\Bingo1.0.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VArRD63812iZKNwJFfiQ1l/Rz1+tvvppJNcpBNPVWByxPWIqq9y7O4HSMPUixDVkjfB2SEO5cYC4WJPkgG7agA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge\\OneDrive\\Documentos\\Archivos\\TRIMESTRES\\6to trimestre\\Estructura de datos\\Bingo\\Bingo1.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Jorge\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
